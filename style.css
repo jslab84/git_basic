@@ -9,3 +9,7 @@ h3 {
 p {
     font-size: 22px;
 }
+blockquote{
+    background: #ff4575;
+    padding: 10px;
+}
